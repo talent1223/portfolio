@@ -263,6 +263,12 @@ h1.title {
 	font-family: 'Lato', sans-serif; font-weight:400;
 	margin: 19px 0 110px 0;
 }
+.skill_info{
+	line-height: 36px;
+    font-size: 18px;
+	font-family: 'Lato', sans-serif; font-weight:400;
+	margin: 0;
+}
 .about_info a{
 	color:#00bbcc;
 	text-decoration:none;
